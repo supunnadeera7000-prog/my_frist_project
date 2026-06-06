@@ -1,0 +1,42 @@
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.AssemblyReference.cache
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Form1.resources
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Properties.Resources.resources
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.GenerateResource.cache
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.CoreCompileInputs.cache
+E:\VB\Game.Animals\Game.Animals\bin\Debug\Game.Animals.exe.config
+E:\VB\Game.Animals\Game.Animals\bin\Debug\Game.Animals.exe
+E:\VB\Game.Animals\Game.Animals\bin\Debug\Game.Animals.pdb
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.exe
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.pdb
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.game2.resources
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Form2.resources
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.frist.resources
+E:\VB\Game.Animals\Game.Animals\obj\Debug\Game.Animals.last.resources
+D:\Game.Animals\Game.Animals\bin\Debug\Game.Animals.exe.config
+D:\Game.Animals\Game.Animals\bin\Debug\Game.Animals.exe
+D:\Game.Animals\Game.Animals\bin\Debug\Game.Animals.pdb
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.AssemblyReference.cache
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Form1.resources
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Form2.resources
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.frist.resources
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.game2.resources
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.last.resources
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Properties.Resources.resources
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.GenerateResource.cache
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.CoreCompileInputs.cache
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.exe
+D:\Game.Animals\Game.Animals\obj\Debug\Game.Animals.pdb
+G:\1 sem GAME\Game.Animals\Game.Animals\bin\Debug\Game.Animals.exe.config
+G:\1 sem GAME\Game.Animals\Game.Animals\bin\Debug\Game.Animals.exe
+G:\1 sem GAME\Game.Animals\Game.Animals\bin\Debug\Game.Animals.pdb
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.AssemblyReference.cache
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Form1.resources
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Form2.resources
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.frist.resources
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.game2.resources
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.last.resources
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.Properties.Resources.resources
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.GenerateResource.cache
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.csproj.CoreCompileInputs.cache
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.exe
+G:\1 sem GAME\Game.Animals\Game.Animals\obj\Debug\Game.Animals.pdb
